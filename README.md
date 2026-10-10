@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Isura Udith Gunawardhana</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology.</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -7,15 +7,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 Advanced MERN Stack Development, AI Integration, and Software Architecture.
 
-- 🎓 Undergraduate BICT student
+- 🎓 Completed BICT Degree at Uva Wellassa University, Sri Lanka.
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **isuraudith@gmail.com**
-
-- ⚡ Fun fact **Call me Isuu**
 
 </br></br>
 
