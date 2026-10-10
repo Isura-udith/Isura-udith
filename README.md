@@ -1,144 +1,98 @@
-# 👋 Hi, I'm Isura Udith Gunawardhana
+ <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Isura Udith Gunawardhana</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
 
-### Software Engineer | Full-Stack Developer | AI Integration Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Developing+AI-Powered+Solutions;Exploring+Software+Architecture" alt="Typing SVG" />
+</p>
+
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+</br>
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="280" alt="Coding animation">
+</picture>
+
+- 🌱 Exploring **Advanced MERN Stack Development, AI Integration, and Software Architecture**.
+- 🎓 Completed my **BICT Degree at Uva Wellassa University, Sri Lanka**.
+- 💼 Former **Software Engineer Intern at Sri Lanka Transport Board (SLTB)**.
+- 💬 Ask me about **MERN Stack, REST APIs, and AI Integration**.
+- 🤖 Interested in building **AI-powered applications and intelligent software solutions**.
+- 📫 Reach me at **[isuraudith@gmail.com](mailto:isuraudith@gmail.com)**.
+
+</br></br>
+
+### 🛠 &nbsp;Tech Stack
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&width=650&lines=Building+Modern+Web+Applications;Developing+AI-Powered+Solutions;Designing+Scalable+Software+Systems" alt="Typing introduction" />
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="AWS" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" alt="Azure" width="40" height="40"/></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="40" height="40"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C Sharp" width="40" height="40"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="Figma" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" alt="Firebase" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="Next.js" width="40" height="40"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="40" height="40"/></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="40" height="40"/></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="40" height="40"/></a>
+<a href="https://vite.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="Vite" width="40" height="40"/></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Isura-udith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### 💡 &nbsp;Featured Projects
 
-I'm a **Bachelor of Information and Communication Technology (BICT) graduate from Uva Wellassa University, Sri Lanka**, passionate about developing modern, secure, and scalable software solutions.
+- **AI-Driven Smart Procurement System:** AI-assisted supplier price comparison and procurement decision support for university resource management.
+  - [Live Demo](https://uwu-procurement-web.vercel.app)
 
-My interests include full-stack web development, backend engineering, AI integration, and building practical applications that solve real-world problems.
+- **SLTB Complaint Management System:** Regional complaint management, role-based access, media uploads, dashboards, and analytics.
 
-- 🎓 **Education:** BICT, Uva Wellassa University, Sri Lanka
-- 💻 **Specialization:** Full-Stack Web Development
-- 🤖 **Interests:** Artificial Intelligence, Automation, and Software Architecture
-- 🌱 **Currently exploring:** Advanced MERN Stack Development and AI-powered applications
-- 📫 **Email:** [isuraudith@gmail.com](mailto:isuraudith@gmail.com)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cs,php" alt="Programming languages" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" alt="Frontend technologies" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database technologies" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,aws,azure,linux" alt="Development tools and platforms" />
-</p>
-
-### 🧠 AI & Integration
-
-- Gemini API integration
-- AI-powered chat and decision-support features
-- REST API development and integration
-
----
-
-## 🚀 Featured Projects
-
-### 1. AI-Driven Smart Procurement System
-
-An AI-enabled procurement management system designed to improve transparency and support data-driven purchasing decisions in university environments.
-
-**Key Features**
-- 🤖 AI-assisted supplier price comparison and market insights.
-- 📋 Digital procurement workflows and centralized resource management.
-- 📊 Procurement information management to support informed decisions.
-
-**Technology Stack:** MERN Stack, React, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini API
-
-🌐 **Live Demo:** [uwu-procurement-web.vercel.app](https://uwu-procurement-web.vercel.app)
-
-### 2. SLTB Complaint Management System
-
-A web-based complaint management solution developed during my Software Engineer internship at the Sri Lanka Transport Board.
-
-**Key Features**
-- 📝 Centralized complaint submission and tracking.
-- 🔐 Role-based access for Head Office and regional users.
-- 📊 Dashboard analytics, complaint reporting, and media uploads.
-- 🏢 Regional complaint management and administrative controls.
-
-**Technology Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Recharts
-
-### 3. Personal Software Development Projects
-
-I also explore practical applications focused on productivity, automation, and security, including:
-
-- 🔐 Local password manager application.
-- 🎬 Python-based video downloader application.
-- 🌐 Modern portfolio and web application development.
-
-*Explore my repositories for available source code, documentation, and project updates.*
-
----
-
-## 📊 GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isura-udith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isura-udith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<a href="https://github.com/Isura-udith">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isura-udith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isura-udith&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+</a>
 </p>
+
+</br>
+
+### 🐍 My Contributions Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Isura-udith&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
----
+</br></br>
 
-## 🐍 Contribution Graph
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Isura-udith/Isura-udith/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/isura-udith-gunawardhana/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/isura-udith-gunawardhana/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/isura.udith" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:isuraudith@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="30" width="30"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>"Turning ideas into practical software solutions through continuous learning and innovation."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
