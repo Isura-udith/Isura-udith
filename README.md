@@ -1,51 +1,144 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Isura Udith Gunawardhana</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | AI Enthusiast</h3>
+# 👋 Hi, I'm Isura Udith Gunawardhana
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### Software Engineer | Full-Stack Developer | AI Integration Enthusiast
 
-</br>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&width=650&lines=Building+Modern+Web+Applications;Developing+AI-Powered+Solutions;Designing+Scalable+Software+Systems" alt="Typing introduction" />
+</p>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 280px></picture>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Isura-udith&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🌱 Advanced MERN Stack Development, AI Integration, and Software Architecture.
+I'm a **Bachelor of Information and Communication Technology (BICT) graduate from Uva Wellassa University, Sri Lanka**, passionate about developing modern, secure, and scalable software solutions.
 
-- 🎓 Completed BICT Degree at Uva Wellassa University, Sri Lanka.
+My interests include full-stack web development, backend engineering, AI integration, and building practical applications that solve real-world problems.
 
-- 💬 Ask me about **MERN stack**
+- 🎓 **Education:** BICT, Uva Wellassa University, Sri Lanka
+- 💻 **Specialization:** Full-Stack Web Development
+- 🤖 **Interests:** Artificial Intelligence, Automation, and Software Architecture
+- 🌱 **Currently exploring:** Advanced MERN Stack Development and AI-powered applications
+- 📫 **Email:** [isuraudith@gmail.com](mailto:isuraudith@gmail.com)
 
-- 📫 How to reach me **isuraudith@gmail.com**
+---
 
-</br></br>
+## 🛠️ Technical Skills
 
-### 🛠 &nbsp;Tech Stack
+### 💻 Programming Languages
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Light.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Light.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Light.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Light.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Light.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,c,cs,php" alt="Programming languages" />
+</p>
 
-</br>
+### 🎨 Frontend Development
 
-### ⚙️ &nbsp;GitHub Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" alt="Backend technologies" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database technologies" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,aws,azure,linux" alt="Development tools and platforms" />
+</p>
+
+### 🧠 AI & Integration
+
+- Gemini API integration
+- AI-powered chat and decision-support features
+- REST API development and integration
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AI-Driven Smart Procurement System
+
+An AI-enabled procurement management system designed to improve transparency and support data-driven purchasing decisions in university environments.
+
+**Key Features**
+- 🤖 AI-assisted supplier price comparison and market insights.
+- 📋 Digital procurement workflows and centralized resource management.
+- 📊 Procurement information management to support informed decisions.
+
+**Technology Stack:** MERN Stack, React, Tailwind CSS, Node.js, Express.js, MongoDB, Gemini API
+
+🌐 **Live Demo:** [uwu-procurement-web.vercel.app](https://uwu-procurement-web.vercel.app)
+
+### 2. SLTB Complaint Management System
+
+A web-based complaint management solution developed during my Software Engineer internship at the Sri Lanka Transport Board.
+
+**Key Features**
+- 📝 Centralized complaint submission and tracking.
+- 🔐 Role-based access for Head Office and regional users.
+- 📊 Dashboard analytics, complaint reporting, and media uploads.
+- 🏢 Regional complaint management and administrative controls.
+
+**Technology Stack:** React, Node.js, Express.js, MongoDB, Tailwind CSS, Recharts
+
+### 3. Personal Software Development Projects
+
+I also explore practical applications focused on productivity, automation, and security, including:
+
+- 🔐 Local password manager application.
+- 🎬 Python-based video downloader application.
+- 🌐 Modern portfolio and web application development.
+
+*Explore my repositories for available source code, documentation, and project updates.*
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Isura-udith">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Isura-udith&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Isura-udith&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Isura-udith&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isura-udith&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
 </p>
 
-</br>
-
-### 🐍 My Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
-</br></br>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/isura-udith-gunawardhana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/isura-udith-gunawardhana" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/isura.udith?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/isura.udith?mibextid=zbwkwl" height="30" width="40" /></a>
+  <img src="https://streak-stats.demolab.com?user=Isura-udith&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Isura-udith/Isura-udith/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/isura-udith-gunawardhana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:isuraudith@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into practical software solutions through continuous learning and innovation."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
