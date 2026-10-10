@@ -17,7 +17,9 @@
 
 - 🎓 Completed BICT Degree at Uva Wellassa University, Sri Lanka.
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **MERN Stack, REST APIs, and AI Integration**
+  
+- 🤖 Interested in building AI-powered applications & software solutions.
 
 - 📫 How to reach me **isuraudith@gmail.com**
 
